@@ -53,3 +53,21 @@ public class IntegerStack {
         }
     }
 }
+
+// Output
+1. Push Element
+2. Pop Element
+3. Exit
+Enter your choice: 1
+Enter an integer to push onto the stack: 4
+Element 4 pushed onto the stack.
+1. Push Element
+2. Pop Element
+3. Exit
+Enter your choice: 2
+Element 4 popped from the stack.
+1. Push Element
+2. Pop Element
+3. Exit
+Enter your choice: 3
+Exiting...
