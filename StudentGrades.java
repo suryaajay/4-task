@@ -71,3 +71,19 @@ public class StudentGrades {
         }
     }
 }
+
+// Output
+1. Add Student
+2. Remove Student
+3. Display Student Grade
+4. Exit
+Enter your choice: 1
+Enter student name: surya
+Enter student grade: 5
+Student surya added with grade 5
+1. Add Student
+2. Remove Student
+3. Display Student Grade
+4. Exit
+Enter your choice: 4
+Exiting...
