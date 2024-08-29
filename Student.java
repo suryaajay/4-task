@@ -40,3 +40,18 @@ public class Student {
         student3.display();
     }
 }
+
+// Output
+Roll No: 101
+Name: John
+Age: 20
+Course: Computer Science
+Error: Age is not within the valid range (15-21).
+Roll No: 102
+Name: Jack
+Age: 0
+Course: null
+Roll No: 103
+Name: Jade
+Age: 18
+Course: Mechanical
