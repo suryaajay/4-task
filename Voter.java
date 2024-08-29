@@ -29,3 +29,12 @@ public class Voter {
         voter2.display();
     }
 }
+
+// Output
+Voter ID: 1
+Name: guru
+Age: 25
+Invalid age for voter
+Voter ID: 2
+Name: sandy
+Age: 18
