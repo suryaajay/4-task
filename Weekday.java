@@ -17,3 +17,7 @@ public class Weekday {
         scanner.close();
     }
 }
+
+// Output
+Enter the day index (0-6): 1
+The day is: Monday
